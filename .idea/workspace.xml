@@ -1,34 +1,128 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/ControlBranch" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4ac0ef6-2d07-4c76-b567-8a2499feeb1f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/ReportsPages/ReportsVideoLocationObjectsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/reportsTest/ReportsLocationByTimeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/reportsTest/ReportsObjectHistoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/reportsTest/ReportsVideoSummaryTest.java" afterDir="false" />
+    <list default="true" id="d4ac0ef6-2d07-4c76-b567-8a2499feeb1f" name="Default Changelist" comment="try to push">
+      <change afterPath="$PROJECT_DIR$/src/Drivers/chromedriver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/fh-auto-tests.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fh-auto-tests.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_25_0_jre.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_25_0_jre.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_10_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_10_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_14_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_14_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_8_15.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_8_15.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_9.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_14_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_14_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_14_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_14_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_14_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_14_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_14_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_14_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_14_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_14_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_14_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_14_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_14_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_14_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_14_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_14_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_14_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_14_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_14_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_14_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log/qalight.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/qalight.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Drivers/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Olddrivers/chromedriver.exe" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/libs/ActionsWithOurElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/libs/ActionsWithOurElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/ChangeLanguagePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/ChangeLanguagePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pages/ClientsPages/ClientsCompaniesPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/ClientsPages/ClientsCompaniesPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pages/ClientsPages/ClientsEmployeePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/ClientsPages/ClientsEmployeePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pages/ClientsPages/ClientsVehicleAccessPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/ClientsPages/ClientsVehicleAccessPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/GeozonesPages/GeozonesPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/GeozonesPages/GeozonesPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/POIPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/POIPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/ParentPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/ParentPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/PersonelDriversPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/PersonelDriversPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/PersonelUserPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/PersonelUserPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/ReportsPages/ReportsVideoLocationObjectsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/ReportsPages/ReportsVideoLocationObjectsPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/UserPage/UserPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/UserPage/UserPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/myFleetPages/IntegrationsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/myFleetPages/IntegrationsPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pages/myFleetPages/VehicleGroupsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/myFleetPages/VehicleGroupsPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/myFleetPages/VehiclesPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/myFleetPages/VehiclesPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pages/servicesPages/DefectsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/servicesPages/DefectsPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/servicesPages/ExpectedServicesPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/servicesPages/ExpectedServicesPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/servicesPages/FinishedServicesPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/servicesPages/FinishedServicesPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/servicesPages/TechConditionPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/servicesPages/TechConditionPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/resources/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/POITest/POIgroupsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/POITest/POIgroupsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/POITest/POIpoiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/POITest/POIpoiTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/clientsTest/ClientsCompanyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/clientsTest/ClientsCompanyTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/clientsTest/ClientsEmployeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/clientsTest/ClientsEmployeeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/clientsTest/ClientsVehicleAccessTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/clientsTest/ClientsVehicleAccessTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/geozonesTest/GeozonesCrossingsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/geozonesTest/GeozonesCrossingsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/geozonesTest/GeozonesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/geozonesTest/GeozonesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/loginTest/LoginTestWithPageObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/loginTest/LoginTestWithPageObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/myFleetTests/IntegrationsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/myFleetTests/IntegrationsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/myFleetTests/VehicleGroupsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/myFleetTests/VehicleGroupsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/myFleetTests/VehiclesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/myFleetTests/VehiclesTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/parentTest/ParentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/parentTest/ParentTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/personelTest/PersonelDriversTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/personelTest/PersonelDriversTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/personelTest/PersonelUsersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/personelTest/PersonelUsersTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/reportsTest/ReportsLocationByTimeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/reportsTest/ReportsLocationByTimeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/reportsTest/ReportsObjectHistoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/reportsTest/ReportsObjectHistoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/reportsTest/ReportsVideoSummaryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/reportsTest/ReportsVideoSummaryTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/servicesTest/DefectsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/servicesTest/DefectsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/libs/ActionsWithOurElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/libs/ActionsWithOurElements.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/servicesTest/ExpectedServicesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/servicesTest/ExpectedServicesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/servicesTest/FinishedServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/servicesTest/FinishedServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/servicesTest/TechConditionsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/servicesTest/TechConditionsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/myFleetPages/VehiclesPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/myFleetPages/VehiclesPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/servicesPages/ExpectedServicesPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/servicesPages/ExpectedServicesPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/loginTest/LoginTestWithPageObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/loginTest/LoginTestWithPageObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/myFleetTests/VehiclesTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/myFleetTests/VehiclesTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/parentTest/ParentTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/parentTest/ParentTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/personelTest/PersonelDriversTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/personelTest/PersonelDriversTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/servicesTest/ExpectedServicesTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/servicesTest/ExpectedServicesTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/servicesTest/FinishedServiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/servicesTest/FinishedServiceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/troianProj.iml" beforeDir="false" afterPath="$PROJECT_DIR$/troianProj.iml" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,82 +130,6 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/libs/ActionsWithOurElements.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2451">
-              <caret line="151" column="49" lean-forward="true" selection-start-line="151" selection-start-column="49" selection-end-line="151" selection-end-column="49" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pages/ClientsPages/ClientsVehicleAccessPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="100" column="38" lean-forward="true" selection-start-line="100" selection-start-column="38" selection-end-line="100" selection-end-column="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#2898#2899#0" expanded="true" />
-                <element signature="e#2960#2961#0" expanded="true" />
-                <element signature="e#3006#3007#0" expanded="true" />
-                <element signature="e#3087#3088#0" expanded="true" />
-                <element signature="e#3813#3814#0" expanded="true" />
-                <element signature="e#3972#3973#0" expanded="true" />
-                <element signature="e#4039#4040#0" expanded="true" />
-                <element signature="e#4396#4397#0" expanded="true" />
-                <element signature="e#4463#4464#0" expanded="true" />
-                <element signature="e#5644#5645#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pages/HomePage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
-              <folding>
-                <element signature="e#1442#1443#0" expanded="true" />
-                <element signature="e#1513#1514#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/clientsTest/ClientsVehicleAccessTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="70" column="91" lean-forward="true" selection-start-line="70" selection-start-column="91" selection-end-line="70" selection-end-column="91" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <marker date="1579450965202" expanded="true" signature="3042:3161" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pages/LoginPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-422">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -124,202 +142,41 @@
     <findStrings>
       <find>.//*[text()='Defects']</find>
       <find>.//*[text()='Delete']</find>
+      <find>.//span[text()='Geozones']</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$/.." value="master" />
-        <entry key="$PROJECT_DIR$" value="FirstCodeToMergeWithOYehorov" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/pages/PersonelUserPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/personelTest/PersonelDepartmentsTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/personelTest/PersonnelDepartmentsTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/myFleetTests/VehiclesTest.java" />
-        <option value="$PROJECT_DIR$/log/qalight.log" />
-        <option value="$PROJECT_DIR$/src/test/java/servicesTest/FinishedServiceTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pages/servicesPages/TechConditionPage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pages/POITest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/POITest/POITest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/myFleetTests/IntegrationsTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pages/myFleetPages/IntegrationsPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/POITest/POIpoiTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/geozonesTest/GeozonesCrossingsTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pages/GeozonesPages/GeozonesPage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pages/POIPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/POITest/POIgroupsTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/servicesTest/ExpectedServicesTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/personelTest/PersonelUsersTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/servicesTest/TechConditionsTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/servicesTest/DefectsTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pages/servicesPages/DefectsPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/geozonesTest/GeozonesTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/myFleetTests/VehicleGroupsTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pages/myFleetPages/VehicleGroupsPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/reportsTest/ReportsVideoSummary.java" />
-        <option value="$PROJECT_DIR$/src/test/java/reportsTest/ReportsLocationByTime.java" />
-        <option value="$PROJECT_DIR$/src/test/java/reportsTest/ReportsObjectHistoryTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/reportsTest/ReportsLocationByTimeTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pages/ReportsPages/ReportsVideoLocationObjectsPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/reportsTest/ReportsVideoSummaryTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/parentTest/ParentTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/personelTest/PersonelDriversTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pages/ClientsPages/ClientsCompaniesPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/clientsTest/ClientsCompanyTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pages/ClientsPages/ClientsEmployeePage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/clientsTest/ClientsEmployeeTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pages/HomePage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/libs/ActionsWithOurElements.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pages/ClientsPages/ClientsVehicleAccessPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/clientsTest/ClientsVehicleAccessTest.java" />
-      </list>
-    </option>
-  </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="troianProj" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="troianProj" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
-      </expand>
-      <select />
-    </treeState>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-16" />
-    <option name="y" value="509" />
-    <option name="width" value="1911" />
-    <option name="height" value="520" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1Ooe7fpi0Mf4KscOmxf04hLHcTW" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="fh-auto-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fh-auto-tests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fh-auto-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fh-auto-tests" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fh-auto-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fh-auto-tests" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Drivers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fh-auto-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fh-auto-tests" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fh-auto-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fh-auto-tests" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fh-auto-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fh-auto-tests" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="libs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fh-auto-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fh-auto-tests" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fh-auto-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fh-auto-tests" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="ClientsPages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fh-auto-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fh-auto-tests" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Olddrivers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fh-auto-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fh-auto-tests" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fh-auto-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fh-auto-tests" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fh-auto-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fh-auto-tests" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="clientsTest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fh-auto-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fh-auto-tests" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="personelTest" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Olddrivers" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Drivers" />
+      <recent name="C:\Users\otroian\Documents\Projects\fh-auto-tests\src\Drivers" />
+      <recent name="C:\Users\otroian\Documents\Projects\fh-auto-tests\src\Olddrivers" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="libs" />
     </key>
@@ -329,20 +186,8 @@
       <recent name="C:\Users\oyehorov\Desktop\prod_autotest\fh-auto-tests\troianProjFH\src\Olddrivers" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="JUnit.ClientsVehicleAccessTest.validVehicleSearch">
-    <configuration name="ClientsEmployeeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.LoginTestWithPageObject.validLogin">
+    <configuration name="ClientsCompanyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="fh-auto-tests" />
       <extension name="coverage">
         <pattern>
@@ -351,13 +196,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="clientsTest" />
-      <option name="MAIN_CLASS_NAME" value="clientsTest.ClientsEmployeeTest" />
+      <option name="MAIN_CLASS_NAME" value="clientsTest.ClientsCompanyTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClientsVehicleAccessTest.validCompanyCreate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ClientsCompanyTest.validCompanyCreate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="fh-auto-tests" />
       <extension name="coverage">
         <pattern>
@@ -366,14 +211,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="clientsTest" />
-      <option name="MAIN_CLASS_NAME" value="clientsTest.ClientsVehicleAccessTest" />
+      <option name="MAIN_CLASS_NAME" value="clientsTest.ClientsCompanyTest" />
       <option name="METHOD_NAME" value="validCompanyCreate" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClientsVehicleAccessTest.validCompanyCreateEdit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ClientsCompanyTest.validCompanyCreateEdit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="fh-auto-tests" />
       <extension name="coverage">
         <pattern>
@@ -382,57 +227,56 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="clientsTest" />
-      <option name="MAIN_CLASS_NAME" value="clientsTest.ClientsVehicleAccessTest" />
+      <option name="MAIN_CLASS_NAME" value="clientsTest.ClientsCompanyTest" />
       <option name="METHOD_NAME" value="validCompanyCreateEdit" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClientsVehicleAccessTest.validCompanySearch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LoginTestWithPageObject.validLogin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="fh-auto-tests" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="clientsTest.*" />
+          <option name="PATTERN" value="loginTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="clientsTest" />
-      <option name="MAIN_CLASS_NAME" value="clientsTest.ClientsVehicleAccessTest" />
-      <option name="METHOD_NAME" value="validCompanySearch" />
+      <option name="PACKAGE_NAME" value="loginTest" />
+      <option name="MAIN_CLASS_NAME" value="loginTest.LoginTestWithPageObject" />
+      <option name="METHOD_NAME" value="validLogin" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClientsVehicleAccessTest.validVehicleSearch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SmokeSuit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="fh-auto-tests" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="clientsTest.*" />
+          <option name="PATTERN" value="suits.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="clientsTest" />
-      <option name="MAIN_CLASS_NAME" value="clientsTest.ClientsVehicleAccessTest" />
-      <option name="METHOD_NAME" value="validVehicleSearch" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="suits" />
+      <option name="MAIN_CLASS_NAME" value="suits.SmokeSuit" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ClientsVehicleAccessTest.validVehicleSearch" />
-        <item itemvalue="JUnit.ClientsVehicleAccessTest.validCompanySearch" />
-        <item itemvalue="JUnit.ClientsVehicleAccessTest.validCompanyCreateEdit" />
-        <item itemvalue="JUnit.ClientsVehicleAccessTest.validCompanyCreate" />
-        <item itemvalue="JUnit.ClientsEmployeeTest" />
+        <item itemvalue="JUnit.LoginTestWithPageObject.validLogin" />
+        <item itemvalue="JUnit.ClientsCompanyTest.validCompanyCreate" />
+        <item itemvalue="JUnit.ClientsCompanyTest" />
+        <item itemvalue="JUnit.ClientsCompanyTest.validCompanyCreateEdit" />
+        <item itemvalue="JUnit.SmokeSuit" />
       </list>
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
-    <configuration>C:\Users\oyehorov\AppData\Roaming\Subversion</configuration>
+    <configuration>$USER_HOME$/.subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -533,100 +377,22 @@
       <option name="project" value="LOCAL" />
       <updated>1576598469218</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="First refactoring">
+      <created>1579513211933</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1579513211933</updated>
+    </task>
+    <task id="LOCAL-00015" summary="First refactoring">
+      <created>1579513266768</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1579513266768</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
-  </component>
-  <component name="TestHistory">
-    <history-entry file="ClientsVehicleAccessTest_validVehicleSearch - 2020.01.19 at 18h 24m 48s.xml">
-      <configuration name="ClientsVehicleAccessTest.validVehicleSearch" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ClientsVehicleAccessTest_validVehicleSearch - 2020.01.19 at 18h 26m 49s.xml">
-      <configuration name="ClientsVehicleAccessTest.validVehicleSearch" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ClientsVehicleAccessTest_validCompanySearch - 2020.01.19 at 18h 50m 30s.xml">
-      <configuration name="ClientsVehicleAccessTest.validCompanySearch" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ClientsVehicleAccessTest_validVehicleSearch - 2020.01.19 at 18h 52m 48s.xml">
-      <configuration name="ClientsVehicleAccessTest.validVehicleSearch" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ClientsVehicleAccessTest_validVehicleSearch - 2020.01.19 at 18h 53m 51s.xml">
-      <configuration name="ClientsVehicleAccessTest.validVehicleSearch" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ClientsVehicleAccessTest_validVehicleSearch - 2020.01.19 at 18h 55m 13s.xml">
-      <configuration name="ClientsVehicleAccessTest.validVehicleSearch" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ClientsVehicleAccessTest_validVehicleSearch - 2020.01.19 at 19h 21m 17s.xml">
-      <configuration name="ClientsVehicleAccessTest.validVehicleSearch" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ClientsVehicleAccessTest_validVehicleSearch - 2020.01.19 at 19h 23m 03s.xml">
-      <configuration name="ClientsVehicleAccessTest.validVehicleSearch" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ClientsVehicleAccessTest_validVehicleSearch - 2020.01.19 at 19h 40m 21s.xml">
-      <configuration name="ClientsVehicleAccessTest.validVehicleSearch" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ClientsVehicleAccessTest_validVehicleSearch - 2020.01.19 at 19h 41m 45s.xml">
-      <configuration name="ClientsVehicleAccessTest.validVehicleSearch" configurationId="JUnit" />
-    </history-entry>
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21748401" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Designer" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32936078" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28602383" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053304" side_tool="true" weight="0.32719395" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49946696" weight="0.32936078" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.30769232" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" weight="0.32995737" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21748401" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Designer" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28602383" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053304" side_tool="true" weight="0.32719395" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49946696" weight="0.32936078" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.30769232" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" weight="0.32995737" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-    </layout-to-restore>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -634,19 +400,16 @@
         <entry key="MAIN">
           <value>
             <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/ControlBranch" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
               </option>
             </State>
           </value>
@@ -667,593 +430,89 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/troianProjFH" />
+    </ignored-roots>
     <MESSAGE value="First commit" />
     <MESSAGE value="Commit 1408 geo/poi" />
     <MESSAGE value="First refactoring" />
-    <option name="LAST_COMMIT_MESSAGE" value="First refactoring" />
+    <MESSAGE value="try to push" />
+    <option name="LAST_COMMIT_MESSAGE" value="try to push" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="123" width="1240" height="606" key="DiffContextDialog" timestamp="1600713765353">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="100" y="123" width="1240" height="603" key="DiffContextDialog/0.23.1440.808@0.23.1440.808" timestamp="1600713450605" />
+    <state x="100" y="123" width="1240" height="606" key="DiffContextDialog/0.23.1440.811@0.23.1440.811" timestamp="1600713765353" />
+    <state x="577" y="354" key="Github.ShareDialog" timestamp="1600625889055">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="577" y="354" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1600625889055" />
+    <state width="1398" height="219" key="GridCell.Tab.0.bottom" timestamp="1600713691809">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="1398" height="262" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1600626470225" />
+    <state width="1398" height="220" key="GridCell.Tab.0.bottom/0.23.1440.803@0.23.1440.803" timestamp="1600711118354" />
+    <state width="1398" height="220" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1600709020327" />
+    <state width="1398" height="220" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1600709497991" />
+    <state width="1398" height="219" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1600713664338" />
+    <state width="1398" height="219" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1600713691809" />
+    <state width="1398" height="219" key="GridCell.Tab.0.center" timestamp="1600713691807">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="1398" height="262" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1600626470223" />
+    <state width="1398" height="220" key="GridCell.Tab.0.center/0.23.1440.803@0.23.1440.803" timestamp="1600711118353" />
+    <state width="1398" height="220" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1600709020327" />
+    <state width="1398" height="220" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1600709497990" />
+    <state width="1398" height="219" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1600713664337" />
+    <state width="1398" height="219" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1600713691807" />
+    <state width="1398" height="219" key="GridCell.Tab.0.left" timestamp="1600713691806">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="1398" height="262" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1600626470222" />
+    <state width="1398" height="220" key="GridCell.Tab.0.left/0.23.1440.803@0.23.1440.803" timestamp="1600711118353" />
+    <state width="1398" height="220" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1600709020327" />
+    <state width="1398" height="220" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1600709497989" />
+    <state width="1398" height="219" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1600713664337" />
+    <state width="1398" height="219" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1600713691806" />
+    <state width="1398" height="219" key="GridCell.Tab.0.right" timestamp="1600713691808">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="1398" height="262" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1600626470224" />
+    <state width="1398" height="220" key="GridCell.Tab.0.right/0.23.1440.803@0.23.1440.803" timestamp="1600711118354" />
+    <state width="1398" height="220" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1600709020327" />
+    <state width="1398" height="220" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1600709497990" />
+    <state width="1398" height="219" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1600713664337" />
+    <state width="1398" height="219" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1600713691808" />
+    <state x="221" y="63" key="SettingsEditor" timestamp="1600707674487">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="63" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1600707674487" />
+    <state x="320" y="193" key="Vcs.Push.Dialog.v2" timestamp="1600710331106">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1600708108555" />
+    <state x="320" y="193" key="Vcs.Push.Dialog.v2/0.23.1440.803@0.23.1440.803" timestamp="1600710331106" />
+    <state x="432" y="318" key="git4idea.rebase.GitRebaseDialog" timestamp="1600625770781">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="432" y="318" key="git4idea.rebase.GitRebaseDialog/0.0.1440.900@0.0.1440.900" timestamp="1600625770781" />
+    <state x="446" y="351" key="git4idea.ui.GitResetDialog" timestamp="1600626527342">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="446" y="351" key="git4idea.ui.GitResetDialog/0.0.1440.900@0.0.1440.900" timestamp="1600626527342" />
+    <state x="385" y="155" width="670" height="676" key="search.everywhere.popup" timestamp="1600713191312">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="385" y="155" width="670" height="676" key="search.everywhere.popup/0.23.1440.808@0.23.1440.808" timestamp="1600713191312" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/changeLanguageTest/ChangeLanguageTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/personelTest/PersonnelDepartmentsTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/pages/PersonnelDepartmentsPage.java" />
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="770">
-          <caret line="778" column="10" selection-start-line="778" selection-start-column="10" selection-end-line="778" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/personelTest/PersonelDepartmentsTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/pages/PersonelDepartmentsPage.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/GeozonesTest.java" />
-    <entry file="file://$PROJECT_DIR$/log/qalight.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pages/servicesPages/FinishedServicesPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="43" selection-start-line="43" selection-end-line="44" selection-end-column="36" />
-          <folding>
-            <element signature="e#1961#1962#0" expanded="true" />
-            <element signature="e#2024#2025#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pages/PersonelUserPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-chrome-driver/3.14.0/selenium-chrome-driver-3.14.0.jar!/org/openqa/selenium/chrome/ChromeDriver.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/loginTest/LoginTestWithPageObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pages/myFleetPages/VehiclesPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/servicesTest/FinishedServiceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/myFleetTests/VehiclesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="37" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pages/servicesPages/ExpectedServicesPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="11" column="5" selection-start-line="7" selection-start-column="34" selection-end-line="11" selection-end-column="5" />
-          <folding>
-            <element signature="e#2747#2748#0" expanded="true" />
-            <element signature="e#2827#2828#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pages/servicesPages/TechnicalConditionPage.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/servicesTest/ExpectedServicesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" selection-start-line="12" selection-start-column="2" selection-end-line="14" selection-end-column="36" />
-          <folding>
-            <marker date="1576245350289" expanded="true" signature="253:382" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pages/servicesPages/TechConditionPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/personelTest/PersonelUsersTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="13" selection-start-line="13" selection-start-column="2" selection-end-line="14" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/servicesTest/TechConditionsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/servicesTest/DefectsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="947">
-          <caret line="57" column="28" selection-start-line="57" selection-start-column="28" selection-end-line="57" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pages/servicesPages/DefectsPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="32" column="189" selection-start-line="32" selection-start-column="189" selection-end-line="32" selection-end-column="189" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/myFleetTests/VehicleGroupsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="23" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pages/myFleetPages/VehicleGroupsPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="84" column="75" selection-start-line="84" selection-start-column="75" selection-end-line="84" selection-end-column="75" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1949#1950#0" expanded="true" />
-            <element signature="e#2017#2018#0" expanded="true" />
-            <element signature="e#2562#2563#0" expanded="true" />
-            <element signature="e#2630#2631#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/geozonesTest/GeozonesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1122">
-          <caret line="70" column="1" selection-start-line="70" selection-start-column="1" selection-end-line="70" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2459#2460#0" expanded="true" />
-            <element signature="e#2503#2504#0" expanded="true" />
-            <marker date="1577438107600" expanded="true" signature="1584:1615" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/POITest/POIgroupsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="37" column="25" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2674#2675#0" expanded="true" />
-            <element signature="e#2709#2710#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/POITest/POIpoiTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1575298858041" expanded="true" signature="484:579" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/geozonesTest/GeozonesCrossingsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="93" selection-start-line="20" selection-start-column="93" selection-end-line="20" selection-end-column="93" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/myFleetTests/IntegrationsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="20" column="29" lean-forward="true" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pages/myFleetPages/IntegrationsPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pages/GeozonesPages/GeozonesPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="17" column="41" lean-forward="true" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/reportsTest/ReportsLocationByTimeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/reportsTest/ReportsObjectHistoryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/reportsTest/ReportsVideoSummaryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pages/ReportsPages/ReportsVideoLocationObjectsPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="838">
-          <caret line="102" column="16" selection-start-line="102" selection-start-column="16" selection-end-line="102" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pages/PersonelDriversPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="708">
-          <caret line="143" column="19" selection-start-line="143" selection-start-column="19" selection-end-line="143" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1922#1923#0" expanded="true" />
-            <element signature="e#1985#1986#0" expanded="true" />
-            <element signature="e#2026#2027#0" expanded="true" />
-            <element signature="e#2092#2093#0" expanded="true" />
-            <element signature="e#2398#2399#0" expanded="true" />
-            <element signature="e#2463#2464#0" expanded="true" />
-            <element signature="e#3231#3232#0" expanded="true" />
-            <element signature="e#3309#3310#0" expanded="true" />
-            <element signature="e#3511#3512#0" expanded="true" />
-            <element signature="e#3580#3581#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/parentTest/ParentTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="46" column="35" selection-start-line="46" selection-start-column="35" selection-end-line="46" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/personelTest/PersonelDriversTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="692">
-          <caret line="129" column="5" lean-forward="true" selection-start-line="124" selection-start-column="1" selection-end-line="129" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pages/ClientsPages/ClientsEmployeePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="60" column="49" selection-start-line="60" selection-start-column="49" selection-end-line="60" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2597#2598#0" expanded="true" />
-            <element signature="e#2659#2660#0" expanded="true" />
-            <element signature="e#2294#2295#0" expanded="true" />
-            <element signature="e#2371#2372#0" expanded="true" />
-            <element signature="e#3524#3525#0" expanded="true" />
-            <element signature="e#3591#3592#0" expanded="true" />
-            <element signature="e#3445#3446#0" expanded="true" />
-            <element signature="e#3521#3522#0" expanded="true" />
-            <element signature="e#3579#3580#0" expanded="true" />
-            <element signature="e#3655#3656#0" expanded="true" />
-            <element signature="e#4468#4469#0" expanded="true" />
-            <element signature="e#4535#4536#0" expanded="true" />
-            <element signature="e#5238#5239#0" expanded="true" />
-            <element signature="e#5303#5304#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/clientsTest/ClientsEmployeeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="31" lean-forward="true" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pages/POIPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/clientsTest/ClientsCompanyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1462">
-          <caret line="86" column="81" selection-start-line="86" selection-start-column="81" selection-end-line="86" selection-end-column="81" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pages/ClientsPages/ClientsCompaniesPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-119">
-          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#201#202#0" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
-            <element signature="e#1908#1909#0" expanded="true" />
-            <element signature="e#1971#1972#0" expanded="true" />
-            <element signature="e#2012#2013#0" expanded="true" />
-            <element signature="e#2078#2079#0" expanded="true" />
-            <element signature="e#2384#2385#0" expanded="true" />
-            <element signature="e#2449#2450#0" expanded="true" />
-            <element signature="e#3497#3498#0" expanded="true" />
-            <element signature="e#3566#3567#0" expanded="true" />
-            <element signature="e#4687#4688#0" expanded="true" />
-            <element signature="e#4775#4776#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pages/ParentPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pages/LoginPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-422">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pages/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
-          <folding>
-            <element signature="e#1442#1443#0" expanded="true" />
-            <element signature="e#1513#1514#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/libs/ActionsWithOurElements.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2451">
-          <caret line="151" column="49" lean-forward="true" selection-start-line="151" selection-start-column="49" selection-end-line="151" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/clientsTest/ClientsVehicleAccessTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="70" column="91" lean-forward="true" selection-start-line="70" selection-start-column="91" selection-end-line="70" selection-end-column="91" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1579450965202" expanded="true" signature="3042:3161" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pages/ClientsPages/ClientsVehicleAccessPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="100" column="38" lean-forward="true" selection-start-line="100" selection-start-column="38" selection-end-line="100" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2898#2899#0" expanded="true" />
-            <element signature="e#2960#2961#0" expanded="true" />
-            <element signature="e#3006#3007#0" expanded="true" />
-            <element signature="e#3087#3088#0" expanded="true" />
-            <element signature="e#3813#3814#0" expanded="true" />
-            <element signature="e#3972#3973#0" expanded="true" />
-            <element signature="e#4039#4040#0" expanded="true" />
-            <element signature="e#4396#4397#0" expanded="true" />
-            <element signature="e#4463#4464#0" expanded="true" />
-            <element signature="e#5644#5645#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    -
-    <states>
-      -
-      <state key="ArtifactsStructureConfigurable.UI">
-        -
-        <settings>
-          <artifact-editor />
-          -
-          <splitter-proportions>
-            -
-            <option name="proportions">
-              -
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      -
-      <state key="FacetStructureConfigurable.UI">
-        -
-        <settings>
-          -
-          <splitter-proportions>
-            -
-            <option name="proportions">
-              -
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      -
-      <state key="GlobalLibrariesConfigurable.UI">
-        -
-        <settings>
-          -
-          <splitter-proportions>
-            -
-            <option name="proportions">
-              -
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      -
-      <state key="JdkListConfigurable.UI">
-        -
-        <settings>
-          -
-          <splitter-proportions>
-            -
-            <option name="proportions">
-              -
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      -
-      <state key="ModuleStructureConfigurable.UI">
-        -
-        <settings>
-          -
-          <splitter-proportions>
-            -
-            <option name="proportions">
-              -
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      -
-      <state key="ProjectLibrariesConfigurable.UI">
-        -
-        <settings>
-          -
-          <splitter-proportions>
-            -
-            <option name="proportions">
-              -
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
   <component name="mavenExecuteGoalHistory">
     <option value="C:\Users\otroian\Documents\Projects\fh-auto-tests" />
