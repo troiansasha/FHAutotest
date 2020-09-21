@@ -53,7 +53,7 @@ public class ParentTest {
     //Precondition
     @Before
     public void setUp() {
-        File file = new File("./src/drivers/chromedriver.exe");
+        File file = new File("./src/Drivers/chromedriver");
         System.setProperty("webdriver.chrome.driver", file.getAbsolutePath());
 
         webDriver = new ChromeDriver();
@@ -80,10 +80,11 @@ public class ParentTest {
     clientsEmployeePage = new ClientsEmployeePage(webDriver);
     clientsVehicleAccessPage = new ClientsVehicleAccessPage(webDriver);
     }
-    @After
-    public void tearDown () {
+    //Exit Browser
+//    @After
+//    public void tearDown () {
 //        webDriver.quit();
-    }
+//    }
 
 
 
