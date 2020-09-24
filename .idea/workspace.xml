@@ -26,14 +26,25 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4ac0ef6-2d07-4c76-b567-8a2499feeb1f" name="Default Changelist" comment="try to push">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/fh-auto-tests.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fh-auto-tests.iml" afterDir="false" />
+    <list default="true" id="d4ac0ef6-2d07-4c76-b567-8a2499feeb1f" name="Default Changelist" comment="New pom">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/qalight.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/qalight.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/parentTest/ParentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/parentTest/ParentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/libs/ActionsWithOurElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/libs/ActionsWithOurElements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/ChangeLanguagePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/ChangeLanguagePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/LoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/ParentPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/ParentPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/PersonelDriversPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/PersonelDriversPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/PersonelUserPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/PersonelUserPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/myFleetPages/VehiclesPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/myFleetPages/VehiclesPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/servicesPages/ExpectedServicesPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/servicesPages/ExpectedServicesPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/servicesPages/FinishedServicesPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/servicesPages/FinishedServicesPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/loginTest/LoginTestWithPageObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/loginTest/LoginTestWithPageObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/myFleetTests/VehiclesTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/myFleetTests/VehiclesTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/parentTest/ParentTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/parentTest/ParentTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/personelTest/PersonelDriversTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/personelTest/PersonelDriversTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/personelTest/PersonelUsersTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/personelTest/PersonelUsersTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/servicesTest/ExpectedServicesTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/servicesTest/ExpectedServicesTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/servicesTest/FinishedServiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/servicesTest/FinishedServiceTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -310,7 +321,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600713967741</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="New pom">
+      <created>1600976119163</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1600976119163</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -359,13 +377,14 @@
     <MESSAGE value="Commit 1408 geo/poi" />
     <MESSAGE value="First refactoring" />
     <MESSAGE value="try to push" />
-    <option name="LAST_COMMIT_MESSAGE" value="try to push" />
+    <MESSAGE value="New pom" />
+    <option name="LAST_COMMIT_MESSAGE" value="New pom" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="100" y="123" width="1240" height="606" key="DiffContextDialog" timestamp="1600714909807">
+    <state x="100" y="123" width="1240" height="606" key="DiffContextDialog" timestamp="1600976203301">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
-    <state x="100" y="123" width="1240" height="606" key="DiffContextDialog/0.23.1440.808@0.23.1440.808" timestamp="1600714909807" />
+    <state x="100" y="123" width="1240" height="606" key="DiffContextDialog/0.23.1440.808@0.23.1440.808" timestamp="1600976203301" />
     <state x="100" y="123" width="1240" height="606" key="DiffContextDialog/0.23.1440.811@0.23.1440.811" timestamp="1600714414632" />
     <state x="577" y="354" key="Github.ShareDialog" timestamp="1600625889055">
       <screen x="0" y="0" width="1440" height="900" />
@@ -416,11 +435,12 @@
     </state>
     <state x="221" y="63" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1600707674487" />
     <state x="221" y="23" key="SettingsEditor/0.23.1440.808@0.23.1440.808" timestamp="1600939909958" />
-    <state x="320" y="195" key="Vcs.Push.Dialog.v2" timestamp="1600714391429">
-      <screen x="0" y="23" width="1440" height="811" />
+    <state x="320" y="194" key="Vcs.Push.Dialog.v2" timestamp="1600976145794">
+      <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1600708108555" />
     <state x="320" y="193" key="Vcs.Push.Dialog.v2/0.23.1440.803@0.23.1440.803" timestamp="1600710331106" />
+    <state x="320" y="194" key="Vcs.Push.Dialog.v2/0.23.1440.808@0.23.1440.808" timestamp="1600976145794" />
     <state x="320" y="195" key="Vcs.Push.Dialog.v2/0.23.1440.811@0.23.1440.811" timestamp="1600714391429" />
     <state x="432" y="318" key="git4idea.rebase.GitRebaseDialog" timestamp="1600625770781">
       <screen x="0" y="0" width="1440" height="900" />
