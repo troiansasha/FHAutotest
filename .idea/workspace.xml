@@ -27,101 +27,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4ac0ef6-2d07-4c76-b567-8a2499feeb1f" name="Default Changelist" comment="try to push">
-      <change afterPath="$PROJECT_DIR$/src/Drivers/chromedriver" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/fh-auto-tests.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fh-auto-tests.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_25_0_jre.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_25_0_jre.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_10_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_10_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_14_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_14_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_8_15.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_8_15.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_9.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_14_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_14_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_14_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_14_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_14_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_14_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_14_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_14_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_14_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_14_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_14_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_14_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_14_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_14_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_14_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_14_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_14_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_14_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_14_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_14_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log/qalight.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/qalight.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Drivers/chromedriver.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Olddrivers/chromedriver.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/libs/ActionsWithOurElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/libs/ActionsWithOurElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/ChangeLanguagePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/ChangeLanguagePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/ClientsPages/ClientsCompaniesPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/ClientsPages/ClientsCompaniesPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/ClientsPages/ClientsEmployeePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/ClientsPages/ClientsEmployeePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/ClientsPages/ClientsVehicleAccessPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/ClientsPages/ClientsVehicleAccessPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/GeozonesPages/GeozonesPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/GeozonesPages/GeozonesPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/POIPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/POIPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/ParentPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/ParentPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/PersonelDriversPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/PersonelDriversPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/PersonelUserPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/PersonelUserPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/ReportsPages/ReportsVideoLocationObjectsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/ReportsPages/ReportsVideoLocationObjectsPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/UserPage/UserPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/UserPage/UserPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/myFleetPages/IntegrationsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/myFleetPages/IntegrationsPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/myFleetPages/VehicleGroupsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/myFleetPages/VehicleGroupsPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/myFleetPages/VehiclesPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/myFleetPages/VehiclesPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/servicesPages/DefectsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/servicesPages/DefectsPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/servicesPages/ExpectedServicesPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/servicesPages/ExpectedServicesPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/servicesPages/FinishedServicesPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/servicesPages/FinishedServicesPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/servicesPages/TechConditionPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/servicesPages/TechConditionPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/resources/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/POITest/POIgroupsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/POITest/POIgroupsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/POITest/POIpoiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/POITest/POIpoiTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/clientsTest/ClientsCompanyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/clientsTest/ClientsCompanyTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/clientsTest/ClientsEmployeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/clientsTest/ClientsEmployeeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/clientsTest/ClientsVehicleAccessTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/clientsTest/ClientsVehicleAccessTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/geozonesTest/GeozonesCrossingsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/geozonesTest/GeozonesCrossingsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/geozonesTest/GeozonesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/geozonesTest/GeozonesTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/loginTest/LoginTestWithPageObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/loginTest/LoginTestWithPageObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/myFleetTests/IntegrationsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/myFleetTests/IntegrationsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/myFleetTests/VehicleGroupsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/myFleetTests/VehicleGroupsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/myFleetTests/VehiclesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/myFleetTests/VehiclesTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/parentTest/ParentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/parentTest/ParentTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/personelTest/PersonelDriversTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/personelTest/PersonelDriversTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/personelTest/PersonelUsersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/personelTest/PersonelUsersTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/reportsTest/ReportsLocationByTimeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/reportsTest/ReportsLocationByTimeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/reportsTest/ReportsObjectHistoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/reportsTest/ReportsObjectHistoryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/reportsTest/ReportsVideoSummaryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/reportsTest/ReportsVideoSummaryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/servicesTest/DefectsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/servicesTest/DefectsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/servicesTest/ExpectedServicesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/servicesTest/ExpectedServicesTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/servicesTest/FinishedServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/servicesTest/FinishedServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/servicesTest/TechConditionsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/servicesTest/TechConditionsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pages/myFleetPages/VehiclesPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/myFleetPages/VehiclesPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pages/servicesPages/ExpectedServicesPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/servicesPages/ExpectedServicesPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/loginTest/LoginTestWithPageObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/loginTest/LoginTestWithPageObject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/myFleetTests/VehiclesTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/myFleetTests/VehiclesTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/parentTest/ParentTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/parentTest/ParentTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/servicesTest/ExpectedServicesTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/servicesTest/ExpectedServicesTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/servicesTest/FinishedServiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/servicesTest/FinishedServiceTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/troianProj.iml" beforeDir="false" afterPath="$PROJECT_DIR$/troianProj.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,8 +78,8 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
@@ -186,7 +98,7 @@
       <recent name="C:\Users\oyehorov\Desktop\prod_autotest\fh-auto-tests\troianProjFH\src\Olddrivers" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.LoginTestWithPageObject.validLogin">
+  <component name="RunManager" selected="JUnit.GeozonesCrossingsTest.validGeozonesPlannerPage">
     <configuration name="ClientsCompanyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="fh-auto-tests" />
       <extension name="coverage">
@@ -218,17 +130,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClientsCompanyTest.validCompanyCreateEdit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GeozonesCrossingsTest.validGeozonesPlannerPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="fh-auto-tests" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="clientsTest.*" />
+          <option name="PATTERN" value="geozonesTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="clientsTest" />
-      <option name="MAIN_CLASS_NAME" value="clientsTest.ClientsCompanyTest" />
-      <option name="METHOD_NAME" value="validCompanyCreateEdit" />
+      <option name="PACKAGE_NAME" value="geozonesTest" />
+      <option name="MAIN_CLASS_NAME" value="geozonesTest.GeozonesCrossingsTest" />
+      <option name="METHOD_NAME" value="validGeozonesPlannerPage" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -250,16 +162,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SmokeSuit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PersonelDriversTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="fh-auto-tests" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="suits.*" />
+          <option name="PATTERN" value="personelTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="suits" />
-      <option name="MAIN_CLASS_NAME" value="suits.SmokeSuit" />
+      <option name="PACKAGE_NAME" value="personelTest" />
+      <option name="MAIN_CLASS_NAME" value="personelTest.PersonelDriversTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -267,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.LoginTestWithPageObject.validLogin" />
+        <item itemvalue="JUnit.GeozonesCrossingsTest.validGeozonesPlannerPage" />
         <item itemvalue="JUnit.ClientsCompanyTest.validCompanyCreate" />
+        <item itemvalue="JUnit.PersonelDriversTest" />
+        <item itemvalue="JUnit.LoginTestWithPageObject.validLogin" />
         <item itemvalue="JUnit.ClientsCompanyTest" />
-        <item itemvalue="JUnit.ClientsCompanyTest.validCompanyCreateEdit" />
-        <item itemvalue="JUnit.SmokeSuit" />
       </list>
     </recent_temporary>
   </component>
@@ -391,7 +303,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579513266768</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="try to push">
+      <created>1600713967741</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1600713967741</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -443,60 +362,66 @@
     <option name="LAST_COMMIT_MESSAGE" value="try to push" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="100" y="123" width="1240" height="606" key="DiffContextDialog" timestamp="1600713765353">
-      <screen x="0" y="23" width="1440" height="811" />
+    <state x="100" y="123" width="1240" height="606" key="DiffContextDialog" timestamp="1600714909807">
+      <screen x="0" y="23" width="1440" height="808" />
     </state>
-    <state x="100" y="123" width="1240" height="603" key="DiffContextDialog/0.23.1440.808@0.23.1440.808" timestamp="1600713450605" />
-    <state x="100" y="123" width="1240" height="606" key="DiffContextDialog/0.23.1440.811@0.23.1440.811" timestamp="1600713765353" />
+    <state x="100" y="123" width="1240" height="606" key="DiffContextDialog/0.23.1440.808@0.23.1440.808" timestamp="1600714909807" />
+    <state x="100" y="123" width="1240" height="606" key="DiffContextDialog/0.23.1440.811@0.23.1440.811" timestamp="1600714414632" />
     <state x="577" y="354" key="Github.ShareDialog" timestamp="1600625889055">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="577" y="354" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1600625889055" />
-    <state width="1398" height="219" key="GridCell.Tab.0.bottom" timestamp="1600713691809">
-      <screen x="0" y="23" width="1440" height="811" />
+    <state width="1398" height="219" key="GridCell.Tab.0.bottom" timestamp="1600957775870">
+      <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state width="1398" height="262" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1600626470225" />
     <state width="1398" height="220" key="GridCell.Tab.0.bottom/0.23.1440.803@0.23.1440.803" timestamp="1600711118354" />
-    <state width="1398" height="220" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1600709020327" />
-    <state width="1398" height="220" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1600709497991" />
-    <state width="1398" height="219" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1600713664338" />
-    <state width="1398" height="219" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1600713691809" />
-    <state width="1398" height="219" key="GridCell.Tab.0.center" timestamp="1600713691807">
-      <screen x="0" y="23" width="1440" height="811" />
+    <state width="1398" height="219" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1600809591111" />
+    <state width="1398" height="219" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1600957775870" />
+    <state width="1398" height="219" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1600715273229" />
+    <state width="1398" height="219" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1600942356894" />
+    <state width="1398" height="219" key="GridCell.Tab.0.center" timestamp="1600957775869">
+      <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state width="1398" height="262" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1600626470223" />
     <state width="1398" height="220" key="GridCell.Tab.0.center/0.23.1440.803@0.23.1440.803" timestamp="1600711118353" />
-    <state width="1398" height="220" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1600709020327" />
-    <state width="1398" height="220" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1600709497990" />
-    <state width="1398" height="219" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1600713664337" />
-    <state width="1398" height="219" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1600713691807" />
-    <state width="1398" height="219" key="GridCell.Tab.0.left" timestamp="1600713691806">
-      <screen x="0" y="23" width="1440" height="811" />
+    <state width="1398" height="219" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1600809591110" />
+    <state width="1398" height="219" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1600957775869" />
+    <state width="1398" height="219" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1600715273229" />
+    <state width="1398" height="219" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1600942356894" />
+    <state width="1398" height="219" key="GridCell.Tab.0.left" timestamp="1600957775869">
+      <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state width="1398" height="262" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1600626470222" />
     <state width="1398" height="220" key="GridCell.Tab.0.left/0.23.1440.803@0.23.1440.803" timestamp="1600711118353" />
-    <state width="1398" height="220" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1600709020327" />
-    <state width="1398" height="220" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1600709497989" />
-    <state width="1398" height="219" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1600713664337" />
-    <state width="1398" height="219" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1600713691806" />
-    <state width="1398" height="219" key="GridCell.Tab.0.right" timestamp="1600713691808">
-      <screen x="0" y="23" width="1440" height="811" />
+    <state width="1398" height="219" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1600809591108" />
+    <state width="1398" height="219" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1600957775869" />
+    <state width="1398" height="219" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1600715273228" />
+    <state width="1398" height="219" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1600942356893" />
+    <state width="1398" height="219" key="GridCell.Tab.0.right" timestamp="1600957775870">
+      <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state width="1398" height="262" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1600626470224" />
     <state width="1398" height="220" key="GridCell.Tab.0.right/0.23.1440.803@0.23.1440.803" timestamp="1600711118354" />
-    <state width="1398" height="220" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1600709020327" />
-    <state width="1398" height="220" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1600709497990" />
-    <state width="1398" height="219" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1600713664337" />
-    <state width="1398" height="219" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1600713691808" />
-    <state x="221" y="63" key="SettingsEditor" timestamp="1600707674487">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="219" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1600809591110" />
+    <state width="1398" height="219" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1600957775870" />
+    <state width="1398" height="219" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1600715273229" />
+    <state width="1398" height="219" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1600942356894" />
+    <state x="460" y="152" key="RollbackChangesDialog" timestamp="1600950163961">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="460" y="152" key="RollbackChangesDialog/0.23.1440.806@0.23.1440.806" timestamp="1600950163961" />
+    <state x="221" y="23" key="SettingsEditor" timestamp="1600939909958">
+      <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="221" y="63" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1600707674487" />
-    <state x="320" y="193" key="Vcs.Push.Dialog.v2" timestamp="1600710331106">
-      <screen x="0" y="23" width="1440" height="803" />
+    <state x="221" y="23" key="SettingsEditor/0.23.1440.808@0.23.1440.808" timestamp="1600939909958" />
+    <state x="320" y="195" key="Vcs.Push.Dialog.v2" timestamp="1600714391429">
+      <screen x="0" y="23" width="1440" height="811" />
     </state>
     <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1600708108555" />
     <state x="320" y="193" key="Vcs.Push.Dialog.v2/0.23.1440.803@0.23.1440.803" timestamp="1600710331106" />
+    <state x="320" y="195" key="Vcs.Push.Dialog.v2/0.23.1440.811@0.23.1440.811" timestamp="1600714391429" />
     <state x="432" y="318" key="git4idea.rebase.GitRebaseDialog" timestamp="1600625770781">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
