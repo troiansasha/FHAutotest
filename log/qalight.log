@@ -700,3 +700,77 @@
 2020-25-09 00:37:35   INFO [pages.LoginPage] : Button enter was clicked
 2020-25-09 00:37:36   INFO [libs.ActionsWithOurElements] : Element was clicked
 2020-25-09 00:37:36   INFO [libs.ActionsWithOurElements] : Element was clicked
+2020-25-09 17:32:58   INFO [pages.LoginPage] : LoginPage was opened
+2020-25-09 17:32:59   INFO [libs.ActionsWithOurElements] : troianwork@gmail.com was inputted into input 
+2020-25-09 17:32:59   INFO [libs.ActionsWithOurElements] : 1q2w3e4r5t was inputted into input 
+2020-25-09 17:32:59   INFO [pages.LoginPage] : Button enter was clicked
+2020-25-09 17:32:59   INFO [pages.HomePage] : 10 second timer for download started
+2020-25-09 17:32:59   INFO [pages.PersonelUserPage] : Button Personnel was clicked
+2020-25-09 17:33:00   INFO [pages.PersonelUserPage] : Button Personnel/Users was clicked
+2020-25-09 17:33:00   INFO [pages.PersonelUserPage] : Header from current page
+2020-25-09 17:33:00   INFO [pages.PersonelUserPage] : Header from current page
+2020-25-09 17:33:00   INFO [pages.PersonelUserPage] : Button add new User was clicked
+2020-25-09 17:33:00   INFO [libs.ActionsWithOurElements] : Troian Test was inputted into input 
+2020-25-09 17:33:00   INFO [libs.ActionsWithOurElements] : qwerty111@qwerty was inputted into input 
+2020-25-09 17:33:01   INFO [libs.ActionsWithOurElements] : 00000000002 was inputted into input 
+2020-25-09 17:33:01   INFO [pages.PersonelUserPage] : Button set Role was clicked
+2020-25-09 17:33:01   INFO [pages.PersonelUserPage] : Button choose Role was clicked
+2020-25-09 17:33:01   INFO [pages.PersonelUserPage] : Button set Country was clicked
+2020-25-09 17:33:01   INFO [pages.PersonelUserPage] : Button choose Country was clicked
+2020-25-09 17:33:01   INFO [pages.PersonelUserPage] : Button set Department was clicked
+2020-25-09 17:33:02   INFO [pages.PersonelUserPage] : Button choose Department was clicked
+2020-25-09 17:33:02   INFO [pages.PersonelUserPage] : Button save new user was clicked
+2020-25-09 17:33:02   INFO [libs.ActionsWithOurElements] : Troian Test was inputted into input 
+2020-25-09 17:33:03   INFO [pages.PersonelUserPage] : Button find new User was clicked
+2020-25-09 17:33:03   INFO [pages.PersonelUserPage] : Clicked on Users
+2020-25-09 17:33:03   INFO [pages.PersonelUserPage] : Header from current page
+2020-25-09 17:33:03   INFO [pages.PersonelUserPage] : Button submit was clicked
+2020-25-09 17:33:03   INFO [pages.PersonelUserPage] : Header from current page
+2020-25-09 17:33:03   INFO [libs.ActionsWithOurElements] : qwerty was inputted into input 
+2020-25-09 17:33:03   INFO [pages.PersonelUserPage] : Button find new User was clicked
+2020-25-09 17:33:03   INFO [pages.PersonelUserPage] : Clicked on Users
+2020-25-09 17:33:03   INFO [pages.PersonelUserPage] : Button delete new User was clicked
+2020-25-09 17:33:03   INFO [pages.PersonelUserPage] : Button delete new user / YES was clicked
+2020-25-09 17:33:32   INFO [pages.LoginPage] : LoginPage was opened
+2020-25-09 17:33:32   INFO [libs.ActionsWithOurElements] : troianwork@gmail.com was inputted into input 
+2020-25-09 17:33:32   INFO [libs.ActionsWithOurElements] : 1q2w3e4r5t was inputted into input 
+2020-25-09 17:33:32   INFO [pages.LoginPage] : Button enter was clicked
+2020-25-09 17:33:33   INFO [libs.ActionsWithOurElements] : Element was clicked
+2020-25-09 17:33:33   INFO [libs.ActionsWithOurElements] : Element was clicked
+2020-25-09 17:33:33   INFO [libs.ActionsWithOurElements] : Element was clicked
+2020-25-09 17:33:33   INFO [libs.ActionsWithOurElements] : Element was clicked
+2020-25-09 17:33:34   INFO [libs.ActionsWithOurElements] : Element was clicked
+2020-25-09 17:33:34   INFO [libs.ActionsWithOurElements] : Test Test was inputted into input 
+2020-25-09 17:33:34   INFO [libs.ActionsWithOurElements] : 1578487894561235 was inputted into input 
+2020-25-09 17:33:34   INFO [libs.ActionsWithOurElements] : 581365811 was inputted into input 
+2020-25-09 17:33:34   INFO [libs.ActionsWithOurElements] : Element was clicked
+2020-25-09 17:33:34   INFO [libs.ActionsWithOurElements] : Element was clicked
+2020-25-09 17:33:35   INFO [libs.ActionsWithOurElements] : Element was clicked
+2020-25-09 17:33:45  ERROR [libs.ActionsWithOurElements] : Can not work with element
+2020-25-09 17:33:45  ERROR [libs.ActionsWithOurElements] : Can not work with element
+2020-25-09 17:33:49   INFO [pages.LoginPage] : LoginPage was opened
+2020-25-09 17:33:49  ERROR [libs.ActionsWithOurElements] : Can not work with element
+2020-25-09 17:33:49  ERROR [libs.ActionsWithOurElements] : Can not work with element
+2020-25-09 17:33:51   INFO [pages.LoginPage] : LoginPage was opened
+2020-25-09 17:33:51  ERROR [libs.ActionsWithOurElements] : Can not work with element
+2020-25-09 17:33:51  ERROR [libs.ActionsWithOurElements] : Can not work with element
+2020-25-09 17:33:54   INFO [pages.LoginPage] : LoginPage was opened
+2020-25-09 17:33:54  ERROR [libs.ActionsWithOurElements] : Can not work with element
+2020-25-09 17:33:54  ERROR [libs.ActionsWithOurElements] : Can not work with element
+2020-25-09 17:33:56   INFO [pages.LoginPage] : LoginPage was opened
+2020-25-09 17:33:56  ERROR [libs.ActionsWithOurElements] : Can not work with element
+2020-25-09 20:54:50   INFO [pages.LoginPage] : LoginPage was opened
+2020-25-09 20:54:51   INFO [libs.ActionsWithOurElements] : troianwork@gmail.com was inputted into input 
+2020-25-09 20:54:51   INFO [libs.ActionsWithOurElements] : 1q2w3e4r5t was inputted into input 
+2020-25-09 20:54:51   INFO [pages.LoginPage] : Button enter was clicked
+2020-25-09 20:54:51   INFO [libs.ActionsWithOurElements] : Element was clicked
+2020-25-09 20:54:51   INFO [libs.ActionsWithOurElements] : Element was clicked
+2020-25-09 20:54:52   INFO [libs.ActionsWithOurElements] : Element was clicked
+2020-25-09 20:54:52  ERROR [libs.ActionsWithOurElements] : Can not work with element
+2020-25-09 20:54:52  ERROR [libs.ActionsWithOurElements] : Can not work with element
+2020-25-09 20:56:16   INFO [pages.LoginPage] : LoginPage was opened
+2020-25-09 20:56:16   INFO [libs.ActionsWithOurElements] : troianwork@gmail.com was inputted into input 
+2020-25-09 20:56:16   INFO [libs.ActionsWithOurElements] : 1q2w3e4r5t was inputted into input 
+2020-25-09 20:56:16   INFO [pages.LoginPage] : Button enter was clicked
+2020-25-09 20:56:17   INFO [libs.ActionsWithOurElements] : Element was clicked
+2020-25-09 20:56:17   INFO [libs.ActionsWithOurElements] : Element was clicked
